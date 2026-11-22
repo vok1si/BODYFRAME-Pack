@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "name": "BODYFRAME",
+  "revision": 1,
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.267",
+  "cleanDirs": [
+    "mods"
+  ],
+  "files": [
+    {
+      "path": "mods/BODYFRAME-0.1.7.jar",
+      "size": 45679230,
+      "sha256": "1f11e256df9080f6e052b3ec6ca0aa30956c654d6cb62ac0b90b41f12ea56bbc",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/BODYFRAME-0.1.7.jar"
+    },
+    {
+      "path": "mods/BODYFRAME-XaeroBridge-2.0.0.jar",
+      "size": 12964,
+      "sha256": "bf9a1586da0dd123f2b170a2db2cc44c6a678bac5a105f32ec99c38a66cf9606",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/BODYFRAME-XaeroBridge-2.0.0.jar"
+    },
+    {
+      "path": "mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "size": 154879,
+      "sha256": "e603af2004d71bcb0b42e339c9297fd164219c608c02d32d76a1ac5988473d5f",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
+    },
+    {
+      "path": "mods/fpvdrone-1.21.1-1.1.5.jar",
+      "size": 5338834,
+      "sha256": "77a5ea52fae22bf71ac5f203e67383dd317808eb0d8b33089f71febb361ba5d2",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/fpvdrone-1.21.1-1.1.5.jar"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "size": 2438548,
+      "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar",
+      "size": 3538766,
+      "sha256": "f1d6b029e969104743a5a37b7ef4b5fe3321780c110d92ce6b11d144c74775cd",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar"
+    },
+    {
+      "path": "mods/pbmapi-0.3.0.jar",
+      "size": 1979618,
+      "sha256": "b2de0b945a9bf0099ec4a2c1a2d72e6ac2cebb2d3d23ad42e5ff1b1ffbe9b1b9",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/pbmapi-0.3.0.jar"
+    },
+    {
+      "path": "mods/pbmed-0.1.2.jar",
+      "size": 68034,
+      "sha256": "3330db482e98bc0db97c2a41c978b9b5f203409d562dc64c00b2123a80f01d70",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/pbmed-0.1.2.jar"
+    },
+    {
+      "path": "mods/pbragdoll-0.1.4.jar",
+      "size": 2419426,
+      "sha256": "fe67120ebfc2cf32f82f274c9267cc4f246a9897ef63b35c5c3ef47739f7622e",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/pbragdoll-0.1.4.jar"
+    },
+    {
+      "path": "mods/snassets_particles-1.0.1.jar",
+      "size": 575663,
+      "sha256": "4b43ef096628cfdd33884180ca4d70d69d0077b742c854368d4e5803e8ae6dca",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/snassets_particles-1.0.1.jar"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "size": 1162994,
+      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+    },
+    {
+      "path": "mods/tacz-neoforge-1.21.1-1.2.0-r2.jar",
+      "size": 136052815,
+      "sha256": "ecc5c01ed29c1aa4c7366c4a639189a13c1584fe6d6ffe47a47d823e7cf39018",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/tacz-neoforge-1.21.1-1.2.0-r2.jar"
+    },
+    {
+      "path": "mods/warbornexplosives-0.2.2.jar",
+      "size": 1370049,
+      "sha256": "f575dde098543397e8ad5bb3aee0f674fdbad62a57cb6bfcff6ef1fdd30030ae",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/warbornexplosives-0.2.2.jar"
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "size": 6222854,
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/worldedit-mod-7.3.8.jar"
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.5-BODYFRAME.jar",
+      "size": 2134930,
+      "sha256": "087d7d04fb6ee46c42672c4ae6c55e88eb8ea8839306aaea5792c2e17f4ddb94",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/xaerominimap-neoforge-1.21.1-25.3.5-BODYFRAME.jar"
+    }
+  ]
+}
