@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "BODYFRAME",
-  "revision": 3,
+  "revision": 4,
   "minecraft": "1.21.1",
   "neoforge": "21.1.267",
   "cleanDirs": [
@@ -31,12 +31,6 @@
       "size": 2438548,
       "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
       "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
-    },
-    {
-      "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar",
-      "size": 3538766,
-      "sha256": "f1d6b029e969104743a5a37b7ef4b5fe3321780c110d92ce6b11d144c74775cd",
-      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar"
     },
     {
       "path": "mods/pbmapi-0.3.0.jar",
