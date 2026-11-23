@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "BODYFRAME",
-  "revision": 2,
+  "revision": 3,
   "minecraft": "1.21.1",
   "neoforge": "21.1.267",
   "cleanDirs": [
@@ -9,22 +9,16 @@
   ],
   "files": [
     {
-      "path": "mods/BODYFRAME-0.1.7.jar",
-      "size": 45679230,
-      "sha256": "1f11e256df9080f6e052b3ec6ca0aa30956c654d6cb62ac0b90b41f12ea56bbc",
-      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/BODYFRAME-0.1.7.jar"
+      "path": "mods/BODYFRAME-0.1.8.jar",
+      "size": 45625160,
+      "sha256": "7f4f04eb7477d3606b42c1fc0cc11dfe9384acfa8fd27d7531c71afca2110d37",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/BODYFRAME-0.1.8.jar"
     },
     {
       "path": "mods/BODYFRAME-XaeroBridge-2.0.0.jar",
       "size": 12964,
       "sha256": "bf9a1586da0dd123f2b170a2db2cc44c6a678bac5a105f32ec99c38a66cf9606",
       "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/BODYFRAME-XaeroBridge-2.0.0.jar"
-    },
-    {
-      "path": "mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
-      "size": 154879,
-      "sha256": "e603af2004d71bcb0b42e339c9297fd164219c608c02d32d76a1ac5988473d5f",
-      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
     },
     {
       "path": "mods/fpvdrone-1.21.1-1.1.5.jar",
