@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "BODYFRAME",
-  "revision": 4,
+  "revision": 5,
   "minecraft": "1.21.1",
   "neoforge": "21.1.267",
   "cleanDirs": [
@@ -49,6 +49,12 @@
       "size": 2419426,
       "sha256": "fe67120ebfc2cf32f82f274c9267cc4f246a9897ef63b35c5c3ef47739f7622e",
       "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/pbragdoll-0.1.4.jar"
+    },
+    {
+      "path": "mods/pbstamina-0.1.2.jar",
+      "size": 30963,
+      "sha256": "3beadb33c5fcd36b2f3528e8945975b31a77bc9cdb79a03a2dd9f207a2ead4fc",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/pbstamina-0.1.2.jar"
     },
     {
       "path": "mods/snassets_particles-1.0.1.jar",
