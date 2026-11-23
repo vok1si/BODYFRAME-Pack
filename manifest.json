@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "BODYFRAME",
-  "revision": 5,
+  "revision": 6,
   "minecraft": "1.21.1",
   "neoforge": "21.1.267",
   "cleanDirs": [
@@ -19,6 +19,12 @@
       "size": 12964,
       "sha256": "bf9a1586da0dd123f2b170a2db2cc44c6a678bac5a105f32ec99c38a66cf9606",
       "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/BODYFRAME-XaeroBridge-2.0.0.jar"
+    },
+    {
+      "path": "mods/bfposefix-0.1.0.jar",
+      "size": 2852,
+      "sha256": "54e787c12678c744e619838b9d20fa9f9de13f5989da62db44dc6f1d7e8bc1ce",
+      "url": "https://github.com/vok1si/BODYFRAME-Pack/releases/download/mods/bfposefix-0.1.0.jar"
     },
     {
       "path": "mods/fpvdrone-1.21.1-1.1.5.jar",
